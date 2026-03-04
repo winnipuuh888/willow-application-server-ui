@@ -32,3 +32,6 @@ Run the following to build and deploy:
 ```bash
 ./utils.sh build
 ```
+# Fork from org. WAS
+
+A fork from the original repository. The goal is to implement additional wakewords.
