@@ -32,6 +32,12 @@ export const WAKE_WORDS = {
   alexa: 'Alexa',
   hiesp: 'Hi E.S.P.',
   hilexin: 'Hi Lexin (Chinese pronunciation)',
+  computer: 'Computer',
+  jarvis: 'Jarvis',
+  sophia: 'Sophia',
+  mycroft: 'Mycroft',
+  heywanda: 'Hey Wanda',
+  astrolabe: 'Astrolabe',
 };
 export const SPEECH_REC_MODE = {
   WIS: 'Willow Inference Server',
