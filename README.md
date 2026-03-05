@@ -35,3 +35,15 @@ Run the following to build and deploy:
 # Fork from org. WAS
 
 A fork from the original repository. The goal is to implement additional wakewords.
+Alexa (wn8_alexa)
+Alexa (wn9_alexa)
+Hi,ESP (wn9_hiesp)
+Jarvis (wn9_jarvis_tts)
+computer (wn9_computer_tts)
+Hey,Willow (wn9_heywillow_tts)
+Sophia (wn9_sophia_tts)
+Mycroft (wn9_mycroft_tts)
+Hey,Printer (wn9_heyprinter_tts)
+Hey,Wanda (wn9_heywanda_tts)
+Astrolabe (wn9_astrolabe_tts)
+Hi,Jason (wn9_hijason_tts2)
